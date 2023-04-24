@@ -1,8 +1,8 @@
-// Algoritmo para determinar el promedio que obtendr· una persona estuainde considerando que realiza tres examenes, 
-// de los cuales el primero y el segundo tienen una ponderaciÛn de 25%, mientras que el tercero de 50%.
+// Algoritmo para determinar el promedio que obtendr√° una persona estuainde considerando que realiza tres examenes, 
+// de los cuales el primero y el segundo tienen una ponderaci√≥n de 25%, mientras que el tercero de 50%.
+// Creador: Jeferson Andrew Fuentes Garc√≠a.
+// Fecha: 24 de abril 2023.
 
-// Creador: Jeferson Andrew Fuentes GarcÌa.
-// Fecha: 24/04/2023
 Algoritmo main
 	calcularPromedio();
 	terminarPrograma();
@@ -19,7 +19,7 @@ Funcion calcularPromedio()
 	Escribir "Digite la nota del tercer examen";
 	Leer exam3;
 	
-	// C·lculo promedio estudiante.
+	// C√°lculo promedio estudiante.
 	Escribir "Su promedio es de: ", (exam1 + exam2) *.25 + exam3 *.50;
 FinFuncion
 
@@ -30,6 +30,6 @@ Funcion terminarPrograma()
 	Limpiar Pantalla;
 	Escribir " ";
 	Escribir "////////////////////////////////////////////////";
-	Escribir "Programa creado por Jeferson Fuentes GarcÌa UCR";
+	Escribir "Programa creado por Jeferson Fuentes Garc√≠a UCR";
 	Escribir "////////////////////////////////////////////////";
 FinFuncion

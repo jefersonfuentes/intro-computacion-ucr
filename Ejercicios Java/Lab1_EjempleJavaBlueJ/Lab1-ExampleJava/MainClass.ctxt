@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MainClass
+comment0.text=\r\n\ First\ Java\ application\ of\ the\ course.\r\n\ \r\n\ @author\ (Jeferson\ Andrew\ Fuentes\ Garc\u00EDa)\ \r\n\ @version\ (1.0)\r\n\ \r\n\ Java\ is\ an\ OOP\ and\ high\ level\ language.\r\n\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
